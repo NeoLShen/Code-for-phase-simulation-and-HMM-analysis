@@ -1,3 +1,5 @@
+%This script was used for automatically determining the optimized search range in condensed phase and dilute phase,
+%and generate trajectory information that contains [X coordinates, Y coordinates, Frame number, Phase label, Displacement, Mean squared displacement] in variable 'Trajsio'.
 %% Determine boundary
 CreateMask
 %% Trajectory assign in condensed phase

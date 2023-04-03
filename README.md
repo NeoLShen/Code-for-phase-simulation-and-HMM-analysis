@@ -1,2 +1,2 @@
 # Zeyu-Shen
-Codes for phase separation simulation and HMM processing
+Codes for phase separation simulation and HMM analysis

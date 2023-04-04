@@ -1,4 +1,4 @@
-# Zeyu-Shen
+# Codes for Phase Separation Simulation and HMM Analysis
 These are codes for phase separation simulation and HMM analysis that coded with MATLAB.
 
 
